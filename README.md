@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vllyxw&theme=midnight-purple&show_icons=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vllyxw&theme=midnight-purple&layout=compact)
 
-<br>
-
 * Intitulo-me como Desenvolvedora Front-End no momento, porém meu objetivo é atuar como Desenvolvedora Fullstack ou Engenheira de Dados.
 * Graduanda no curso Superior de Engenharia de Software pela PUC-SC - 2ª fase
 * Aluna do programa de Treinamento React do Entra21 - BluSoft
