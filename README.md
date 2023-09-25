@@ -3,12 +3,14 @@
 
 <table>
   <tr>
-    <th>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vllyxw&theme=midnight-purple&show_icons=true) </th>
+    <td>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vllyxw&theme=midnight-purple&show_icons=true) 
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-    </th>
+    </td>
   </tr>
 </table>
 
