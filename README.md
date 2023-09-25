@@ -1,4 +1,4 @@
-# Seja Bem-vindo ao meu perfil🖖🤟
+# Seja Bem-vindo ao meu perfil 😊
 
 ![Header](./apresentação.png)
 
