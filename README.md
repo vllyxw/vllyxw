@@ -2,7 +2,14 @@
 
 ![Header](./apresentação.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vllyxw&theme=midnight-purple&show_icons=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vllyxw&theme=midnight-purple&layout=compact)
+<div>
+<a href="https://github.com/vllyxw">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vllyxw&theme=midnight-purple&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vllyxw&theme=midnight-purple&layout=compact"/>
+<img height="180em" src="">
+</div>
+
+
 
 * Graduanda no curso Superior de Engenharia de Software pela PUC-SC - 2ª fase
 
