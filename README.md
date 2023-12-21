@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu perfil 😊
 
-![Header](./apresentação.png)
+![Header](./github-header-image.png)
 
 <div align="center">
 <a href="https://github.com/vllyxw">
