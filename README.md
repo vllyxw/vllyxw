@@ -9,7 +9,7 @@
 <br>
 
 * Graduanda no curso Análise e Desenvolvimento de Sistemas pela Católica SC
-* Atuo como Analista de Suporte Remoto Junior
+* Atuo como Analista de Suporte Remoto 
 
 <h2>Stacks</h2>
 
