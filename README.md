@@ -8,8 +8,8 @@
 
 <br>
 
-* Graduanda no curso Análise e Desenvolvimento de Sistemas pela Católica SC
-* Atuo como Analista de Suporte Remoto 
+* Graduanda no curso de Engenharia de Software pela Católica SC - 5/8
+* Atuo como Analista de Suporte na TOTVS Santa Catarina
 
 <h2>Stacks</h2>
 
