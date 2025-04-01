@@ -9,7 +9,6 @@
 <br>
 
 * Graduanda no curso de Engenharia de Software pela Católica SC - 5/8
-* Atuo como Analista de Suporte na TOTVS Santa Catarina
 
 <h2>Stacks</h2>
 
