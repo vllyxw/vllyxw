@@ -9,7 +9,7 @@
 <br>
 
 * Graduanda no curso de Engenharia de Software pela Católica SC - 5/8
-* Product Owner na Martinelli Tech
+* Desenvolvedora Back-end Trainee
   
 <h2>Stacks</h2>
 
