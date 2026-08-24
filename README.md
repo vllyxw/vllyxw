@@ -9,7 +9,7 @@
 <br>
 
 * Graduanda no curso de Engenharia de Software pela Católica SC - 5/8
-* Desenvolvedora Back-end Trainee
+* Desenvolvedora Full Stack Junior
   
 <h2>Stacks</h2>
 
